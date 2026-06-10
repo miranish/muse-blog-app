@@ -1,0 +1,6 @@
+{
+  "name": "Muse Blog",
+  "description": "An editorial-grade full-stack blog platform inspired by Substack and Ghost with dark mode support, rich wysiwyg composition, comments, liking, and clean typographic-first aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

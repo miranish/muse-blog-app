@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "author-1",
+      "username": "miranish",
+      "email": "miranish25@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+      "bio": "Founder, full-stack developer, and open-source enthusiast. Writing about code, design, and aesthetics.",
+      "createdAt": "2026-05-01T12:00:00.000Z",
+      "passwordHash": "$2b$10$FrUqRjjFDj09T55/S8OJteV9favzQuSY8B.X5PndtMnLuCU9boeGi"
+    },
+    {
+      "id": "author-2",
+      "username": "elena_travels",
+      "email": "elena@travel.com",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200",
+      "bio": "Travel journalist and high-altitude hiker. Exploring silent places and sharing design inspirations from around the globe.",
+      "createdAt": "2026-05-15T10:00:00.000Z",
+      "passwordHash": "$2b$10$yHc7o3bU8AX9Mbr52CyD9OkJ1n2kQGK9BaN5cJRi.jnsYpIIGOnG2"
+    },
+    {
+      "id": "user-1781118779128-2fog",
+      "username": "anishMir",
+      "email": "mir@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200",
+      "bio": "",
+      "createdAt": "2026-06-10T19:12:59.128Z",
+      "passwordHash": "$2b$10$ah4U2n7qW6rCroHKiffw6.K2c8NAQrcWKqcsQzduhrDw9gj6.hpqC"
+    },
+    {
+      "id": "user-1781128667595-muet",
+      "username": "anish",
+      "email": "mira@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200",
+      "bio": "",
+      "createdAt": "2026-06-10T21:57:47.595Z",
+      "passwordHash": "$2b$10$fFf.uoqMZ.84pvyoBtqfoueEgZAFsgQ2d81kwlt485warDWmGR82K"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "The Silent Aesthetic of Ghost and Substack",
+      "slug": "silent-aesthetic-ghost-substack",
+      "excerpt": "How editorial minimalism, spacious canvas design, and focused typography are reshaping the future of publishing.",
+      "body": "<h2>Typography Over Decoration</h2>\n<p>In the digital age, we suffer from cognitive overload. Websites compete for our attention with popups, banners, flashing metrics, and noisy sidebars. High-fidelity publishing platforms like Substack and Ghost succeed by doing the opposite: they remove clutter entirely.</p>\n\n<h3>Designing for the Reader</h3>\n<p>When you sit down to read, your screen should disappear. The typography should do the heavy lifting. Pairing an elegant serif display font like <strong>Playfair Display</strong> for titles with a highly legible, clean sans-serif like <strong>Inter</strong> for the main copy creates an elegant rhythm.</p>\n\n<p>Consider the dimensions of your reading pane. A line containing more than 75 characters is fatiguing for the human eye. Restricting the main text layout to a centralized <code>720px</code> container invites focus, encouraging long-form comprehension.</p>\n\n<blockquote>\"Simplicity is not the lack of clutter, but the presence of clarity.\" – Jony Ive</blockquote>\n\n<h3>What We Can Borrow</h3>\n<ul>\n  <li><strong>Generous Margins:</strong> Give content room to breathe. Margins are not wasted space; they are visual rest periods.</li>\n  <li><strong>Typographic Scale:</strong> Drastic differences between header weights and paragraph text define a clean reading hierarchy.</li>\n  <li><strong>High Contrast:</strong> Clean off-white canvases paired with charcoal black text decrease visual strain.</li>\n</ul>\n\n<p>By treating the reader's focus as sacred, we create experiences that feel less like a screen and more like an immersive printed editorial book.</p>",
+      "coverImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80&w=1200",
+      "authorId": "author-1",
+      "category": "Tech",
+      "tags": [
+        "Design",
+        "Minimalism",
+        "Typography"
+      ],
+      "likes": [
+        "author-2"
+      ],
+      "status": "published",
+      "readTime": 3,
+      "createdAt": "2026-06-01T09:00:00.000Z",
+      "updatedAt": "2026-06-01T09:00:00.000Z"
+    },
+    {
+      "id": "post-2",
+      "title": "A Hiking Journal Through the Swiss Alps",
+      "slug": "hiking-journal-swiss-alps",
+      "excerpt": "Exploring remote passes and high meadows in the heart of Switzerland. Notes on scenery, gear, and solitude.",
+      "body": "<h2>Setting Out from Lauterbrunnen</h2>\n<p>The mist hung low in the valley as we packed our rucksacks. Guided only by yellow signposts and the faint tolling of distant cowbells, we began our climb towards the high pasture lines.</p>\n\n<h3>Scaling the Sefinenfurgge Pass</h3>\n<p>The ascent is steep, a series of rocky switchbacks that test both calves and spirit. But as the clouds break, you are greeted by the magnificent north faces of the Eiger, Mönch, and Jungfrau. In these spaces, screens have no power.</p>\n\n<p>Here are three essential takeaways from our high-altitude week:</p>\n<ul>\n  <li><strong>Travel Light:</strong> Every ounce on your back becomes a burden. This is as true for code architecture as it is for hiking gear.</li>\n  <li><strong>Wake with the Sun:</strong> Mountain weather is unpredictable. Arriving at your lodge before the afternoon thermal storms is rule number one.</li>\n  <li><strong>Embrace Silence:</strong> Solitude is a scarce resource. Use it to reflect, write, and simply breathe.</li>\n</ul>\n\n<h3>Evening at the Golderli Hut</h3>\n<p>Over a warm bowl of rösti, we exchanged journals and stories with hikers from all walks of life. No Wi-Fi, just warm lanterns and the cold shadows of the peaks outside. It reminds me of the beauty of writing: transmitting a moment across time and space.</p>",
+      "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200",
+      "authorId": "author-2",
+      "category": "Travel",
+      "tags": [
+        "Adventure",
+        "Nature",
+        "Switzerland"
+      ],
+      "likes": [
+        "author-1"
+      ],
+      "status": "published",
+      "readTime": 4,
+      "createdAt": "2026-06-05T14:30:00.000Z",
+      "updatedAt": "2026-06-05T14:30:00.000Z"
+    },
+    {
+      "id": "post-3",
+      "title": "The Blueprint of a Focused Mind",
+      "slug": "blueprint-focused-mind",
+      "excerpt": "Practical mental frameworks to conquer notification overload, block out noise, and trigger pristine flows.",
+      "body": "<h2>The Cost of Inattention</h2>\n<p>We live in a high-density sensory environment. Every service on our devices is engineered to hijack our dopamine loop. Each buzz, alert, or pop-up is a minor cognitive context switch. Research shows it takes an average of 23 minutes to return to a task after a single distraction.</p>\n\n<h3>Building a Focused Ritual</h3>\n<p>To enter deep work, you need to create a visual and digital physical vacuum. Here is how I structure my mornings:</p>\n\n<ol>\n  <li><strong>The Digital Cleanse:</strong> Put your phone in another room. Close all tabs except the direct work editor.</li>\n  <li><strong>Time Boxing:</strong> Set a physical timer for 90 minutes. Do not stand up, load your inbox, or look at metrics until the chime.</li>\n  <li><strong>Caffeine Timing:</strong> Wait 90 minutes after waking before your first cortisolic lift. This aligns perfectly with natural circadian energy curves.</li>\n</ol>\n\n<p>Your mind is a pristine workspace. Keep its walls high, its layout immaculate, and its distractions minimal. Let depth represent your competitive advantage.</p>",
+      "coverImage": "https://images.unsplash.com/photo-1493612276216-ee3925520721?auto=format&fit=crop&q=80&w=1200",
+      "authorId": "author-1",
+      "category": "Life",
+      "tags": [
+        "Focus",
+        "Productivity",
+        "Mindset"
+      ],
+      "likes": [],
+      "status": "published",
+      "readTime": 3,
+      "createdAt": "2026-06-08T08:15:00.000Z",
+      "updatedAt": "2026-06-08T08:15:00.000Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "comment-1",
+      "postId": "post-1",
+      "authorId": "author-2",
+      "author": {
+        "id": "author-2",
+        "username": "elena_travels",
+        "email": "elena@travel.com",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200",
+        "bio": "Travel journalist and high-altitude hiker. Exploring silent places and sharing design inspirations from around the globe.",
+        "createdAt": "2026-05-15T10:00:00.000Z"
+      },
+      "body": "This is spot on. Minimalist designs always evoke a sense of trust and quality. It really lets the written word shine.",
+      "createdAt": "2026-06-02T11:20:00.000Z"
+    },
+    {
+      "id": "comment-2",
+      "postId": "post-1",
+      "authorId": "author-1",
+      "author": {
+        "id": "author-1",
+        "username": "miranish",
+        "email": "miranish25@gmail.com",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+        "bio": "Founder, full-stack developer, and open-source enthusiast. Writing about code, design, and aesthetics.",
+        "createdAt": "2026-05-01T12:00:00.000Z"
+      },
+      "body": "Thank you Elena! Absolutely. Good to have you here reading and commenting.",
+      "createdAt": "2026-06-02T13:45:00.000Z"
+    }
+  ]
+}
